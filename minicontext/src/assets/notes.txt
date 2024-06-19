@@ -1,0 +1,9 @@
+when we make a file for context its extension is js not jsx as pure js is rquired in it
+
+step1: use React.createContext() method to create context and then store it in a variable using const
+step2: export default (name of variable/file);
+
+context is nothing but something which provides global variables to  whatver it is wrapped arround just like we wrap a div around many other things it jut encloses it similarly <UseRContext> </UserContext > acts like enclosing tag and provides necessary variables to other tags coming under it
+context is provider
+
+we create new file as a provider but this will be a .JSX file 
